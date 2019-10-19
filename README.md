@@ -1,13 +1,10 @@
 # Back Pack
 
+[![CircleCI](https://circleci.com/gh/vitormalencar/back-pack.svg?style=svg)](https://circleci.com/gh/vitormalencar/back-pack)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![CircleCI](https://circleci.com/gh/vitormalencar/spoon.svg?style=svg)](https://circleci.com/gh/vitormalencar/spoon)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/c458950fb7d58b60b179/test_coverage)](https://codeclimate.com/github/vitormalencar/spoon/test_coverage)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c458950fb7d58b60b179/maintainability)](https://codeclimate.com/github/vitormalencar/spoon/maintainability)
-[![Known Vulnerabilities](https://snyk.io/test/github/vitormalencar/spoon/badge.svg)](https://snyk.io/test/github/vitormalencar/spoon)
-[![dependencies Status](https://david-dm.org/vitormalencar/spoon/status.svg)](https://david-dm.org/vitormalencar/spoon)
-[![devDependencies Status](https://david-dm.org/vitormalencar/spoon/dev-status.svg)](https://david-dm.org/vitormalencar/spoon?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/vitormalencar/spoon.svg)](https://greenkeeper.io/)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c201454a79d895620ee1/test_coverage)](https://codeclimate.com/github/vitormalencar/back-pack/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c201454a79d895620ee1/maintainability)](https://codeclimate.com/github/vitormalencar/back-pack/maintainability)
+
 
 ## Stack
 
