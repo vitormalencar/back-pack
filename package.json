@@ -26,7 +26,7 @@
     "coveragePathIgnorePatterns": [
       "<rootDir>/src/index.js",
       "<rootDir>/src/serviceWorker.js",
-      "<rootDir>/src/mocks/**.js"
+      "<rootDir>/src/mocks/index.js"
     ]
   },
   "eslintConfig": {
