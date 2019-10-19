@@ -1,10 +1,14 @@
+
+<p align="center">
+  <img width="500" src="template.png" />
+</p>
+
 # Back Pack
 
 [![CircleCI](https://circleci.com/gh/vitormalencar/back-pack.svg?style=svg)](https://circleci.com/gh/vitormalencar/back-pack)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c201454a79d895620ee1/test_coverage)](https://codeclimate.com/github/vitormalencar/back-pack/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c201454a79d895620ee1/maintainability)](https://codeclimate.com/github/vitormalencar/back-pack/maintainability)
-
 
 ## Stack
 
