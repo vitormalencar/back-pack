@@ -1,0 +1,2 @@
+// @flow
+// API configuration file
