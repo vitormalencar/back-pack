@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Index from "./index";
+import Index from "./Index";
 
 describe("App", () => {
   it("renders without crashing", () => {
